@@ -5,6 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+*.swp
 
 # Distribution / packaging
 .Python
@@ -102,3 +103,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Geo django datas from Timor-Leste
+*.zip
+*.dbf
+*.prj
+*.shp
+*.shx
